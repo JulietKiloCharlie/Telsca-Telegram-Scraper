@@ -20,7 +20,7 @@ Step 1: Clone the Repository
 
 First, clone the repository from GitHub to your local machine:
 
-git clone https://github.com/JulietKiloCharlie/Telsca-Telegram-Scrape.git
+```git clone https://github.com/JulietKiloCharlie/Telsca-Telegram-Scrape.git```
 
 ```cd Telsca-Telegram-Scrape```
 
@@ -29,6 +29,7 @@ Step 2: Install the Required Libraries
 Install the required Python libraries using pip:
 
 ```sudo apt install python3-tk```
+
 ```pip install telethon```
 
 # Obtaining Telegram API ID and API Hash
