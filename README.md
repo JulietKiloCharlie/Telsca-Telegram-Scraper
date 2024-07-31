@@ -30,7 +30,7 @@ Install the required Python libraries using pip:
 
 ```sudo apt install python3-tk```
 
-```pip install telethon```
+```pip3 install telethon```
 
 # Obtaining Telegram API ID and API Hash
 
