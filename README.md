@@ -9,6 +9,8 @@ Features
     -Save scraped data in CSV or JSON format.
     -User-friendly GUI with customizable data options.
 
+    ![welcome message](https://github.com/user-attachments/assets/ac1fedfa-c202-482d-aa14-c738e2d35cf7)
+
 # Requirements
 
     -Python 3.x
@@ -41,6 +43,8 @@ To use Telsca, you need to obtain an API ID and API Hash from Telegram. Follow t
     -Click on "API development tools".
     -Create a new application by filling out the required details.
     -After creating the application, you will see your API ID and API Hash.
+
+    ![teslca](https://github.com/user-attachments/assets/0de66533-c71a-48f1-8562-7fb7e14560e5)
 
 # Usage
 Step 1: Run the Script
