@@ -22,14 +22,14 @@ First, clone the repository from GitHub to your local machine:
 
 git clone https://github.com/JulietKiloCharlie/Telsca-Telegram-Scrape.git
 
-cd Telsca-Telegram-Scrape
+```cd Telsca-Telegram-Scrape```
 
 Step 2: Install the Required Libraries
 
 Install the required Python libraries using pip:
 
-sudo apt install python3-tk
-pip install telethon
+```sudo apt install python3-tk```
+```pip install telethon```
 
 # Obtaining Telegram API ID and API Hash
 
@@ -46,7 +46,7 @@ Step 1: Run the Script
 
 Run the script using Python:
 
-python3 telsca.py
+```python3 telsca.py```
 
 Step 2: Follow the Steps in the GUI
 
@@ -66,7 +66,7 @@ Step 2: Follow the Steps in the GUI
 
     -Run the script:
 
-    python3 telsca.py
+    ```python3 telsca.py```
 
     -Follow the prompts to authenticate with your Telegram account.
     -Select the chat and data options.
