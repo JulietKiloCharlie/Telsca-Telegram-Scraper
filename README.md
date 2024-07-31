@@ -22,7 +22,7 @@ Features
 
 First, clone the repository from GitHub to your local machine:
 
-```git clone https://github.com/JulietKiloCharlie/Telsca-Telegram-Scrape.git```
+```git clone https://github.com/JulietKiloCharlie/Telsca-Telegram-Scraper.git```
 
 ```cd Telsca-Telegram-Scrape```
 
