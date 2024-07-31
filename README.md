@@ -18,7 +18,7 @@ Features
     -Phone number associated with your Telegram account
 
 # Installation
-Step 1: Clone the Repository
+# Step 1: Clone the Repository
 
 First, clone the repository from GitHub to your local machine:
 
@@ -26,7 +26,7 @@ First, clone the repository from GitHub to your local machine:
 
 ```cd Telsca-Telegram-Scrape```
 
-Step 2: Install the Required Libraries
+# Step 2: Install the Required Libraries
 
 Install the required Python libraries using pip:
 
@@ -49,13 +49,13 @@ To use Telsca, you need to obtain an API ID and API Hash from Telegram. Follow t
 
 ![teslca](https://github.com/user-attachments/assets/0de66533-c71a-48f1-8562-7fb7e14560e5)
 
-Step 1: Run the Script
+# Step 1: Run the Script
 
 Run the script using Python:
 
 ```python3 telsca.py```
 
-Step 2: Follow the Steps in the GUI
+# Step 2: Follow the Steps in the GUI
 
     Welcome Page: The welcome page provides information about the tool, requirements, and setup instructions. Click "Get Started" to proceed.
 
