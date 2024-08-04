@@ -1,7 +1,8 @@
 ## Telsca - Telegram Scraper by OSINTTraining.info
 
 Telsca is a powerful open-source tool designed to scrape data from Telegram channels and groups. With Telsca, you can extract messages, user information, media files, and other metadata, saving the data in CSV or JSON format. It also allows you to download associated media files such as images, videos, and documents.
-Features
+
+Features:
 
 
 ![welcome message](https://github.com/user-attachments/assets/ac1fedfa-c202-482d-aa14-c738e2d35cf7)
@@ -45,9 +46,13 @@ Install the required Python libraries using pip:
 To use Telsca, you need to obtain an API ID and API Hash from Telegram. Follow these steps to get them:
 
 -Go to my.telegram.org.
+
 -Log in with your Telegram account.
+
 -Click on "API development tools".
+
 -Create a new application by filling out the required details.
+
 -After creating the application, you will see your API ID and API Hash.
 
 
