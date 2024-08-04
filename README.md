@@ -8,21 +8,24 @@ Features:
 ![welcome message](https://github.com/user-attachments/assets/ac1fedfa-c202-482d-aa14-c738e2d35cf7)
 
 
--Scrape messages from Telegram channels and groups.
--Extract user information including profile photos.
--Download media files (images, videos, audio, documents).
--Save scraped data in CSV or JSON format.
--User-friendly GUI with customizable data options.
+   -Scrape messages from Telegram channels and groups.
 
+   -Extract user information including profile photos.
+
+   -Download media files (images, videos, audio, documents).
+
+   -Save scraped data in CSV or JSON format.
+
+   -User-friendly GUI with customizable data options.
    
 
 # Requirements.
    
--Python 3.x
+   -Python 3.x
 
--API ID and API Hash from Telegram
+   -API ID and API Hash from Telegram
 
--Phone number associated with your Telegram account
+   -Phone number associated with your Telegram account
 
 # Installation
 # Step 1: Clone the Repository
@@ -45,15 +48,15 @@ Install the required Python libraries using pip:
 
 To use Telsca, you need to obtain an API ID and API Hash from Telegram. Follow these steps to get them:
 
--Go to my.telegram.org.
+   -Go to my.telegram.org.
 
--Log in with your Telegram account.
+   -Log in with your Telegram account.
 
--Click on "API development tools".
+   -Click on "API development tools".
 
--Create a new application by filling out the required details.
+   -Create a new application by filling out the required details.
 
--After creating the application, you will see your API ID and API Hash.
+   -After creating the application, you will see your API ID and API Hash.
 
 
 # Usage
@@ -69,16 +72,25 @@ Run the script using Python:
 # Step 2: Follow the Steps in the GUI
 
 
-Welcome Page: The welcome page provides information about the tool, requirements, and setup instructions. Click "Get Started" to proceed.
+Welcome Page: 
+
+The welcome page provides information about the tool, requirements, and setup instructions. Click "Get Started" to proceed.
 
 Main Interface:
-        -Enter API ID, API Hash, and Phone Number: Input your Telegram API credentials. Use the "Show" button to toggle the visibility of the API Hash.
-        -Authenticate: Click "Authenticate" and enter the code received on your Telegram account.
-        -Select Chat: Choose the Telegram channel or group you want to scrape from the dropdown list.
-        -Select Data Options: Check the boxes for the data you want to scrape.
-        -Save As: Enter the file name and choose the file format (CSV or JSON).
-        -Scrape: Click "Scrape" to start scraping the data.
-        -Download Media: A dialog will appear asking you to select which types of media to download (images, videos, audio, documents). Select the desired media types and specify the directory to save them.
+
+   -Enter API ID, API Hash, and Phone Number: Input your Telegram API credentials. Use the "Show" button to toggle the visibility of the API Hash.
+        
+   -Authenticate: Click "Authenticate" and enter the code received on your Telegram account.
+        
+   -Select Chat: Choose the Telegram channel or group you want to scrape from the dropdown list.
+        
+   -Select Data Options: Check the boxes for the data you want to scrape.
+        
+   -Save As: Enter the file name and choose the file format (CSV or JSON).
+        
+   -Scrape: Click "Scrape" to start scraping the data.
+        
+   -Download Media: A dialog will appear asking you to select which types of media to download (images, videos, audio, documents). Select the desired media types and specify the directory to save them.
 
 ## Example
 
