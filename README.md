@@ -2,7 +2,8 @@
 
 Telsca is a powerful open-source tool designed to scrape data from Telegram channels and groups. With Telsca, you can extract messages, user information, media files, and other metadata, saving the data in CSV or JSON format. It also allows you to download associated media files such as images, videos, and documents.
 
-Features:
+
+# Features:
 
 
 ![welcome message](https://github.com/user-attachments/assets/ac1fedfa-c202-482d-aa14-c738e2d35cf7)
@@ -18,6 +19,7 @@ Features:
 
    -User-friendly GUI with customizable data options.
    
+   
 
 # Requirements.
    
@@ -26,9 +28,12 @@ Features:
    -API ID and API Hash from Telegram
 
    -Phone number associated with your Telegram account
+   
 
 # Installation
+
 # Step 1: Clone the Repository
+
 
 First, clone the repository from GitHub to your local machine:
 
@@ -36,17 +41,23 @@ First, clone the repository from GitHub to your local machine:
 
 ```cd Telsca-Telegram-Scrape```
 
+
 # Step 2: Install the Required Libraries
 
+
 Install the required Python libraries using pip:
+
 
 ```sudo apt install python3-tk```
 
 ```pip3 install telethon```
 
+
 # Obtaining Telegram API ID and API Hash
 
+
 To use Telsca, you need to obtain an API ID and API Hash from Telegram. Follow these steps to get them:
+
 
    -Go to my.telegram.org.
 
@@ -57,17 +68,22 @@ To use Telsca, you need to obtain an API ID and API Hash from Telegram. Follow t
    -Create a new application by filling out the required details.
 
    -After creating the application, you will see your API ID and API Hash.
+   
 
 
 # Usage
 
+
 ![teslca](https://github.com/user-attachments/assets/0de66533-c71a-48f1-8562-7fb7e14560e5)
 
+
 # Step 1: Run the Script
+
 
 Run the script using Python:
 
 ```python3 telsca.py```
+
 
 # Step 2: Follow the Steps in the GUI
 
@@ -75,6 +91,7 @@ Run the script using Python:
 Welcome Page: 
 
 The welcome page provides information about the tool, requirements, and setup instructions. Click "Get Started" to proceed.
+
 
 Main Interface:
 
@@ -91,8 +108,9 @@ Main Interface:
    -Scrape: Click "Scrape" to start scraping the data.
         
    -Download Media: A dialog will appear asking you to select which types of media to download (images, videos, audio, documents). Select the desired media types and specify the directory to save them.
+   
 
-## Example
+# Example
 
 Run the script:
 
@@ -102,13 +120,16 @@ Follow the prompts to authenticate with your Telegram account.
 Select the chat and data options.
 Click "Scrape" and then select the media types to download.
 
+
 # Contributing
 
 Contributions are welcome! Please fork the repository and submit pull requests for new features, bug fixes, or improvements.
 
+
 # License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 # Contact
 
